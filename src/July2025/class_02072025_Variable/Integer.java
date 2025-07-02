@@ -5,7 +5,7 @@ public class Integer {
         //Integer can store values for -214,748,364,8 to 214,748,364,7
 
         int mobil_number=978654321;
-        int reandom_number=987654321;
+        int random_number=987654321;
         int negative_number=-987654321;
 
 
