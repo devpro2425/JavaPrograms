@@ -1,4 +1,4 @@
-package July2025.class_02072025_Variable;
+package July2025.ex_02072025_Variable;
 
 public class Integer {
     public static void main(String[] args) {

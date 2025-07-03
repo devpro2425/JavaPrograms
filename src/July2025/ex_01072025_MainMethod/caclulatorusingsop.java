@@ -1,4 +1,4 @@
-package July2025.class_01072025_MainMethod;
+package July2025.ex_01072025_MainMethod;
 
 public class caclulatorusingsop {
     public static void main(String[] args) {
