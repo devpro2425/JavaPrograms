@@ -4,9 +4,9 @@ import javax.sound.midi.Soundbank;
 
 public class escape_character {
     public static void main(String[] args) {
-        char c1='A';
+        /*char c1='A';
         char c2='B';
-        char c3='C';
+        char c3='C';*/
 
         char new_line='\n';
         char tab_line='\t';

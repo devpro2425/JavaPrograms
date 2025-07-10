@@ -1,7 +1,4 @@
-package July2025.ex_10072025;
-
-import javax.swing.plaf.synth.SynthOptionPaneUI;
-import java.sql.SQLOutput;
+package July2025.ex_10072025_Literals;
 
 public class enum_class {
     public static void main(String[] args) {
