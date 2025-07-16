@@ -12,6 +12,7 @@ public class zoo extends accessmodifier{
             tiger.makeSound();// ✅ Accessible
             zoo yes = new zoo();
             yes.m2();
+            //tiger.M3();
         }
 
 }

@@ -16,6 +16,10 @@ public class accessmodifier {
     {
         System.out.println("This is protected method");
     }
+    void M3()
+    {
+        System.out.println("Today is Tuesday");
+    }
 
 
     }

@@ -6,6 +6,7 @@ public class SaturdayClass {
         a.makeSound();
         //a.m1(); this is a private method from access modifier
         a.m2();
+        a.M3();
 
     }
 }
