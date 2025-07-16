@@ -1,4 +1,4 @@
-package July2025.ex_15072025;
+package July2025.ex_15072025_TernaryOperators;
 
 public class ternary_operator2 {
     public static void main(String[] args) {
